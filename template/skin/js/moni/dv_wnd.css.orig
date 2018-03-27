@@ -1,0 +1,20 @@
+.dvwnd {
+	FONT-SIZE: 12px; Z-INDEX: 99999;  WIDTH: 400px; FONT-FAMILY: verdana; POSITION: absolute; HEIGHT: auto;}
+.dvwndcanvas {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 99998; FILTER: alpha(opacity=10); LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; POSITION: absolute; TOP: 0px; BACKGROUND-COLOR: #ffffff; opacity: 0.1
+}
+.dvwndtitle {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; PADDING-BOTTOM: 8px; CURSOR: move; COLOR: #000000; PADDING-TOP: 8px; background:url(../../images/admin_bg_1.gif) repeat-x
+}
+.dvwndfocus {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; PADDING-BOTTOM: 8px; CURSOR: move; COLOR: white; PADDING-TOP: 8px; BACKGROUND-COLOR: white
+}
+.dvwndchild {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+A.dvwndclose {
+	FONT-SIZE: 12px; COLOR: white; BACKGROUND-COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.dvwndclose:hover {
+	FONT-SIZE: 12px; COLOR: white; BACKGROUND-COLOR: #ff0000; TEXT-DECORATION: none
+}

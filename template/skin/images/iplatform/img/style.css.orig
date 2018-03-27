@@ -1,0 +1,17 @@
+body{font:12px/1.5 arial,"ËÎÌו"}
+a{font:12px/1.5 arial,"ËÎÌו";text-decoration:none;cursor:pointer}
+#top-l{float:left;}
+#mail,.sethome,#face,.dlhome-bt,.houdong_icon {display:inline-block;padding:6px 0 4px 0;position:relative;z-index:1000}
+.sethome,#mail {padding-left:20px;margin-right:26px}
+#mail{visibility:hidden}
+#mail-f{position:absolute;top:30px;left:138px;width:260px;height:174px;display:none;z-index:999;clear:both;}
+#mail em.mail-ic,#yijian em.yijian-ic,#face em,.dlhome-bt em {width:16px;height:14px;position:absolute;top:10px;left:0}
+.sethome em,#mhome em {width:14px;height:13px;position:absolute;top:9px;left:2px;display:inline-block;overflow:hidden}
+#face{padding:6px 0 4px 18px;padding:8px 0 4px 18px\9;_padding:6px 0 4px 18px;}
+#face em{width:14px;top:10px;left:0}
+#face span{display:none;width:115px;height:28px;position:absolute;top:24px;left:-60px}
+body{overflow-y:scroll;*overflow-y:visible;}
+#face em{background:url(h_bg.png?110607) -32px -56px}
+#face span{background:url(h_bg.png?110607) 0 -241px no-repeat}
+#mail,#face {padding-top:6px;padding-top:7px\0;	*padding-top:6px;_padding-top:5px;padding-bottom:0}
+#mail em.mail-ic,#face em {top:10px;top:9px\0;*top:8px;_top:9px}
